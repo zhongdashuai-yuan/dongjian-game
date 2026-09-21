@@ -16,11 +16,13 @@ https://github.com/zhongdashuai-yuan/dongjian-game/raw/master/游戏介绍视频
 
 ## 下载
 
-👉 到 [**Releases**](../../releases/latest) 页面下载 `洞见-v1.0-win64.7z`（约 146 MB）
+👉 **[点这里下载 `dongjian-v1.0-win64.7z`](https://github.com/zhongdashuai-yuan/dongjian-game/releases/download/v1.0/dongjian-v1.0-win64.7z)**（约 146 MB）
+
+或者到 [Releases 页面](../../releases/latest) 查看。
 
 ### 怎么运行
 
-1. 用 **7-Zip** 或 **WinRAR** 解压（Windows 自带的解压不支持中文文件名，可能乱码）
+1. 用 **7-Zip** 或 **WinRAR** 解压（Windows 自带解压对中文文件名支持不好，可能乱码）
 2. 解压后得到一个文件夹，里面有 **两个文件**：`洞见.exe` 和 `洞见.pck`
 3. 双击 `洞见.exe` 开始游戏
 
